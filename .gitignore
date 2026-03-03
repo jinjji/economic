@@ -1,0 +1,27 @@
+# 환경변수
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+pipeline/venv/
+
+# Node.js
+node_modules/
+web/.next/
+web/out/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# 로그
+*.log

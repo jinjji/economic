@@ -1,0 +1,6 @@
+feedparser
+youtube-transcript-api
+notion-client
+anthropic
+python-dotenv
+pyyaml

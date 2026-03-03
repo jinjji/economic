@@ -1,0 +1,8 @@
+# 수집 대상 YouTube 채널 목록
+# channel_id: YouTube 채널 ID (URL에서 확인)
+# name: 표시할 채널명
+# enabled: 수집 활성화 여부
+channels:
+  - channel_id: "CHANNEL_ID_HERE"
+    name: "채널명"
+    enabled: true
