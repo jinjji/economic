@@ -2,6 +2,13 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+# Project Context
+
+- PRD 문서: @docs/PRD.md
+- 개발 로드맵: @docs/ROADMAP.md
+
+---
+
 ## 프로젝트 개요
 
 EconDigest — YouTube 경제/금융 채널 영상을 자동 수집·요약하여 Notion에 저장하고, 웹에서 열람하는 서비스.
